@@ -1,5 +1,6 @@
 # WordpressAutomationTesting
 Here is my work on **Automating a Wordpress Website and a plugin "WP Dark Mode - by WPPOOL"**. I used Cypress and javascript to write the test suite.
+A video of the testing process is available at cypress/videos folder.
 
 **Testing Environment:**
 1. I used XAMPP to create a localhost database and developed a demo testing website on my device.
