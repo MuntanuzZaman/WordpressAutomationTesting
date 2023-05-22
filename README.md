@@ -5,8 +5,9 @@ A video of the testing process is available at cypress/videos folder.
 **Testing Environment:**
 1. I used XAMPP to create a localhost database and developed a demo testing website on my device.
 2. I followed to instructions given on the wordpress.org website on how to create a localhost website.
-3. I installed the "WP Dark Mode" Plugin before running the test.
-4. I installed a third party cypress plugin, "xpath" to use xpath locators.
+3. I created a mySQL database and named it "mysite".
+4. I installed the "WP Dark Mode" Plugin before running the test.
+5. I installed a third party cypress plugin, "xpath" to use xpath locators.
 https://github.com/cypress-io/cypress/tree/develop/npm/xpath 
 5. I also pushed my localhost website files onto a repository. Here is the link:
 https://github.com/MuntanuzZaman/WordpressWebsiteDemo
